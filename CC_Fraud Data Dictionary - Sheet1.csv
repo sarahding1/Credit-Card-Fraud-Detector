@@ -1,0 +1,18 @@
+Attribute,Input/Output,Data Type,Key
+TransactionID,Input,Integer,Numeric Value
+TransactionDate,Input,Object,Time Value
+Amount,Input,Float,Numeric Value
+MerchantID,Input,Integer,Numeric Value
+TransactionType,Input,Object,Refund or Purchase
+Location,Input,Object,"San Antonio
+Dallas
+New York
+Philadelphia
+Phoenix
+Chicago
+San Jose
+San Diego
+Houston 
+Los Angeles"
+IsFraud,Output,Integer,"0: Not Fraudulent
+1: Fraudulent"
